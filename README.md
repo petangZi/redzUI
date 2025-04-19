@@ -6,7 +6,7 @@
 ## Cara Pasang di Termux
 
 1. **Install Termux**:
-   - Pastikan kamu sudah menginstall Termux di perangkat Android kamu. Kamu bisa mendownloadnya di [Play Store](https://play.google.com/store/apps/details?id=com.termux) atau [F-Droid](https://f-droid.org/packages/com.termux/).
+   - Pastikan kamu sudah menginstall Termux di perangkat Android kamu. Kamu bisa mendownloadnya di [F-Droid](https://f-droid.org/packages/com.termux/).
 
 2. **Update dan Install Dependensi**:
    - Buka Termux dan jalankan perintah berikut untuk memastikan semua paket up-to-date:
